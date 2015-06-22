@@ -1,2 +1,2 @@
-# cubesolver
-3x3 Rubik's cube solver! Not that much yet though.
+# cfoppler
+3x3 Rubik's cube example solver with CFOP! Not that much yet though.
